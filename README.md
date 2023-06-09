@@ -16,7 +16,7 @@ Use Growtopia 4.19 🇹🇰
 
 
 # Download
-* [Download](https://mega.nz/file/u2QxSAbD#kwYNloJDJWpguVKzHAn8OtNA8kNlTSH1yzAbcZ4h8nw)
+* [Download](https://mega.nz/file/SvBUTTBJ#36hFbcsi73SXocih-szmh5LGuKRyG7Sp8SP4bMNLHu8)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
