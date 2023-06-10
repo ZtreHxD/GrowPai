@@ -275,7 +275,7 @@ AddCallback("Hook", "OnIncomingRawPacket", hook)
 
 --Update timer
 AddCallback("timer", "OnUpdate", function(deltatime)
-	timer.update(deltatime)
+	timer.Update(deltatime)
 end)
 
 --On Touch
@@ -354,7 +354,7 @@ Example:
 ```lua
 --Create a timer update callback
 AddCallback("timer", "OnUpdate", function(deltatime)
-	timer.update(deltatime)
+	timer.Update(deltatime)
 end)
 
 timer.Create("timer name", 5, 0, function()
