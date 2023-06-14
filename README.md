@@ -1,4 +1,4 @@
-# This is the real Github (Check name github HertZxD)
+# This is the real Github (Check name github ZreHxD)
 # Version
 * Version : <b>4.29</b> [9/6/2023]
 * Compatible growtopia version : <b>4.19</b>
@@ -7,12 +7,11 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [14/6/2023]
+* Fixed stuck login after update!
 
 # Changelogs [9/6/2023]
 * Updated to 4.29
-
-# Changelogs [3/6/2023]
-* Updated to 4.27
 
 
 # Download
